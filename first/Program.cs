@@ -23,24 +23,40 @@ public class Program
         // } else {
         //     Console.WriteLine("Nie jestes pelnoletni.");
         // }
-        int height;
+        // int height;
         
-        Console.WriteLine("witam pilotów linii lotniczych lot");
+        // Console.WriteLine("witam pilotów linii lotniczych lot");
         
         
-        Console.WriteLine("Jak wysoko lecisz?");
-        height = int.Parse(Console.ReadLine());
-        if(height > 1000)
-        {
-            Console.WriteLine("Lecisz za wysoko");
+        // Console.WriteLine("Jak wysoko lecisz?");
+        // height = int.Parse(Console.ReadLine());
+        // if(height > 1000)
+        // {
+        //     Console.WriteLine("Lecisz za wysoko");
+        // }
+        // else if(height >= 800 && height <= 1000)
+        // {
+        //     Console.WriteLine("Lecisz dobrze");
+        // }
+        // else
+        // {
+        //     Console.WriteLine("Lecisz za nisko");
+        // }
+
+        int randInt = new Random().Next(1, 11);
+        int userGuess;
+        Console.WriteLine("Zgadnij liczbę od 1 do 10:");
+        userGuess = int.Parse(Console.ReadLine());
+        while(userGuess != randInt){
+            if(userGuess > randInt){
+            Console.WriteLine("Mniejsza");
+            userGuess = int.Parse(Console.ReadLine());
+        } else {
+            Console.WriteLine("Większa");
+            userGuess = int.Parse(Console.ReadLine());
         }
-        else if(height >= 800 && height <= 1000)
-        {
-            Console.WriteLine("Lecisz dobrze");
         }
-        else
-        {
-            Console.WriteLine("Lecisz za nisko");
-        }
+        Console.WriteLine("Zgadłeś!");
+        
     }
 }
