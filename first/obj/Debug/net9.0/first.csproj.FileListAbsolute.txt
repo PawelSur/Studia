@@ -12,3 +12,4 @@
 /Users/pawelsurmiak/studia/first/obj/Debug/net9.0/first.pdb
 /Users/pawelsurmiak/studia/first/obj/Debug/net9.0/first.genruntimeconfig.cache
 /Users/pawelsurmiak/studia/first/obj/Debug/net9.0/ref/first.dll
+/Users/pawelsurmiak/studia/first/obj/Debug/net9.0/first.sourcelink.json
