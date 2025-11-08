@@ -1,0 +1,14 @@
+/Users/pawelsurmiak/studia/first/bin/Debug/net9.0/first
+/Users/pawelsurmiak/studia/first/bin/Debug/net9.0/first.deps.json
+/Users/pawelsurmiak/studia/first/bin/Debug/net9.0/first.runtimeconfig.json
+/Users/pawelsurmiak/studia/first/bin/Debug/net9.0/first.dll
+/Users/pawelsurmiak/studia/first/bin/Debug/net9.0/first.pdb
+/Users/pawelsurmiak/studia/first/obj/Debug/net9.0/first.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pawelsurmiak/studia/first/obj/Debug/net9.0/first.AssemblyInfoInputs.cache
+/Users/pawelsurmiak/studia/first/obj/Debug/net9.0/first.AssemblyInfo.cs
+/Users/pawelsurmiak/studia/first/obj/Debug/net9.0/first.csproj.CoreCompileInputs.cache
+/Users/pawelsurmiak/studia/first/obj/Debug/net9.0/first.dll
+/Users/pawelsurmiak/studia/first/obj/Debug/net9.0/refint/first.dll
+/Users/pawelsurmiak/studia/first/obj/Debug/net9.0/first.pdb
+/Users/pawelsurmiak/studia/first/obj/Debug/net9.0/first.genruntimeconfig.cache
+/Users/pawelsurmiak/studia/first/obj/Debug/net9.0/ref/first.dll

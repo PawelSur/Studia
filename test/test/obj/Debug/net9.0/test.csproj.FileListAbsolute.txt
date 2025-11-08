@@ -1,0 +1,14 @@
+/Users/pawelsurmiak/studia/test/test/bin/Debug/net9.0/test
+/Users/pawelsurmiak/studia/test/test/bin/Debug/net9.0/test.deps.json
+/Users/pawelsurmiak/studia/test/test/bin/Debug/net9.0/test.runtimeconfig.json
+/Users/pawelsurmiak/studia/test/test/bin/Debug/net9.0/test.dll
+/Users/pawelsurmiak/studia/test/test/bin/Debug/net9.0/test.pdb
+/Users/pawelsurmiak/studia/test/test/obj/Debug/net9.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pawelsurmiak/studia/test/test/obj/Debug/net9.0/test.AssemblyInfoInputs.cache
+/Users/pawelsurmiak/studia/test/test/obj/Debug/net9.0/test.AssemblyInfo.cs
+/Users/pawelsurmiak/studia/test/test/obj/Debug/net9.0/test.csproj.CoreCompileInputs.cache
+/Users/pawelsurmiak/studia/test/test/obj/Debug/net9.0/test.dll
+/Users/pawelsurmiak/studia/test/test/obj/Debug/net9.0/refint/test.dll
+/Users/pawelsurmiak/studia/test/test/obj/Debug/net9.0/test.pdb
+/Users/pawelsurmiak/studia/test/test/obj/Debug/net9.0/test.genruntimeconfig.cache
+/Users/pawelsurmiak/studia/test/test/obj/Debug/net9.0/ref/test.dll
