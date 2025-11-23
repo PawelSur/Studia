@@ -1,0 +1,15 @@
+/Users/pawelsurmiak/studia/pharmacy/bin/Debug/net9.0/pharmacy
+/Users/pawelsurmiak/studia/pharmacy/bin/Debug/net9.0/pharmacy.deps.json
+/Users/pawelsurmiak/studia/pharmacy/bin/Debug/net9.0/pharmacy.runtimeconfig.json
+/Users/pawelsurmiak/studia/pharmacy/bin/Debug/net9.0/pharmacy.dll
+/Users/pawelsurmiak/studia/pharmacy/bin/Debug/net9.0/pharmacy.pdb
+/Users/pawelsurmiak/studia/pharmacy/obj/Debug/net9.0/pharmacy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pawelsurmiak/studia/pharmacy/obj/Debug/net9.0/pharmacy.AssemblyInfoInputs.cache
+/Users/pawelsurmiak/studia/pharmacy/obj/Debug/net9.0/pharmacy.AssemblyInfo.cs
+/Users/pawelsurmiak/studia/pharmacy/obj/Debug/net9.0/pharmacy.csproj.CoreCompileInputs.cache
+/Users/pawelsurmiak/studia/pharmacy/obj/Debug/net9.0/pharmacy.sourcelink.json
+/Users/pawelsurmiak/studia/pharmacy/obj/Debug/net9.0/pharmacy.dll
+/Users/pawelsurmiak/studia/pharmacy/obj/Debug/net9.0/refint/pharmacy.dll
+/Users/pawelsurmiak/studia/pharmacy/obj/Debug/net9.0/pharmacy.pdb
+/Users/pawelsurmiak/studia/pharmacy/obj/Debug/net9.0/pharmacy.genruntimeconfig.cache
+/Users/pawelsurmiak/studia/pharmacy/obj/Debug/net9.0/ref/pharmacy.dll
