@@ -1,0 +1,15 @@
+/Users/pawelsurmiak/studia/clientsCounter/bin/Debug/net9.0/clientsCounter
+/Users/pawelsurmiak/studia/clientsCounter/bin/Debug/net9.0/clientsCounter.deps.json
+/Users/pawelsurmiak/studia/clientsCounter/bin/Debug/net9.0/clientsCounter.runtimeconfig.json
+/Users/pawelsurmiak/studia/clientsCounter/bin/Debug/net9.0/clientsCounter.dll
+/Users/pawelsurmiak/studia/clientsCounter/bin/Debug/net9.0/clientsCounter.pdb
+/Users/pawelsurmiak/studia/clientsCounter/obj/Debug/net9.0/clientsCounter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pawelsurmiak/studia/clientsCounter/obj/Debug/net9.0/clientsCounter.AssemblyInfoInputs.cache
+/Users/pawelsurmiak/studia/clientsCounter/obj/Debug/net9.0/clientsCounter.AssemblyInfo.cs
+/Users/pawelsurmiak/studia/clientsCounter/obj/Debug/net9.0/clientsCounter.csproj.CoreCompileInputs.cache
+/Users/pawelsurmiak/studia/clientsCounter/obj/Debug/net9.0/clientsCounter.sourcelink.json
+/Users/pawelsurmiak/studia/clientsCounter/obj/Debug/net9.0/clientsCounter.dll
+/Users/pawelsurmiak/studia/clientsCounter/obj/Debug/net9.0/refint/clientsCounter.dll
+/Users/pawelsurmiak/studia/clientsCounter/obj/Debug/net9.0/clientsCounter.pdb
+/Users/pawelsurmiak/studia/clientsCounter/obj/Debug/net9.0/clientsCounter.genruntimeconfig.cache
+/Users/pawelsurmiak/studia/clientsCounter/obj/Debug/net9.0/ref/clientsCounter.dll

@@ -1,0 +1,15 @@
+/Users/pawelsurmiak/studia/second/bin/Debug/net9.0/second
+/Users/pawelsurmiak/studia/second/bin/Debug/net9.0/second.deps.json
+/Users/pawelsurmiak/studia/second/bin/Debug/net9.0/second.runtimeconfig.json
+/Users/pawelsurmiak/studia/second/bin/Debug/net9.0/second.dll
+/Users/pawelsurmiak/studia/second/bin/Debug/net9.0/second.pdb
+/Users/pawelsurmiak/studia/second/obj/Debug/net9.0/second.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pawelsurmiak/studia/second/obj/Debug/net9.0/second.AssemblyInfoInputs.cache
+/Users/pawelsurmiak/studia/second/obj/Debug/net9.0/second.AssemblyInfo.cs
+/Users/pawelsurmiak/studia/second/obj/Debug/net9.0/second.csproj.CoreCompileInputs.cache
+/Users/pawelsurmiak/studia/second/obj/Debug/net9.0/second.sourcelink.json
+/Users/pawelsurmiak/studia/second/obj/Debug/net9.0/second.dll
+/Users/pawelsurmiak/studia/second/obj/Debug/net9.0/refint/second.dll
+/Users/pawelsurmiak/studia/second/obj/Debug/net9.0/second.pdb
+/Users/pawelsurmiak/studia/second/obj/Debug/net9.0/second.genruntimeconfig.cache
+/Users/pawelsurmiak/studia/second/obj/Debug/net9.0/ref/second.dll
