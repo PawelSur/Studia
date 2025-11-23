@@ -1,0 +1,15 @@
+/Users/pawelsurmiak/studia/warehouse/bin/Debug/net9.0/warehouse
+/Users/pawelsurmiak/studia/warehouse/bin/Debug/net9.0/warehouse.deps.json
+/Users/pawelsurmiak/studia/warehouse/bin/Debug/net9.0/warehouse.runtimeconfig.json
+/Users/pawelsurmiak/studia/warehouse/bin/Debug/net9.0/warehouse.dll
+/Users/pawelsurmiak/studia/warehouse/bin/Debug/net9.0/warehouse.pdb
+/Users/pawelsurmiak/studia/warehouse/obj/Debug/net9.0/warehouse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pawelsurmiak/studia/warehouse/obj/Debug/net9.0/warehouse.AssemblyInfoInputs.cache
+/Users/pawelsurmiak/studia/warehouse/obj/Debug/net9.0/warehouse.AssemblyInfo.cs
+/Users/pawelsurmiak/studia/warehouse/obj/Debug/net9.0/warehouse.csproj.CoreCompileInputs.cache
+/Users/pawelsurmiak/studia/warehouse/obj/Debug/net9.0/warehouse.sourcelink.json
+/Users/pawelsurmiak/studia/warehouse/obj/Debug/net9.0/warehouse.dll
+/Users/pawelsurmiak/studia/warehouse/obj/Debug/net9.0/refint/warehouse.dll
+/Users/pawelsurmiak/studia/warehouse/obj/Debug/net9.0/warehouse.pdb
+/Users/pawelsurmiak/studia/warehouse/obj/Debug/net9.0/warehouse.genruntimeconfig.cache
+/Users/pawelsurmiak/studia/warehouse/obj/Debug/net9.0/ref/warehouse.dll
