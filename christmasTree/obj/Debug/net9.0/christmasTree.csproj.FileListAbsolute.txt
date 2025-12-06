@@ -1,0 +1,15 @@
+/Users/pawelsurmiak/studia/christmasTree/obj/Debug/net9.0/christmasTree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pawelsurmiak/studia/christmasTree/obj/Debug/net9.0/christmasTree.AssemblyInfoInputs.cache
+/Users/pawelsurmiak/studia/christmasTree/obj/Debug/net9.0/christmasTree.AssemblyInfo.cs
+/Users/pawelsurmiak/studia/christmasTree/obj/Debug/net9.0/christmasTree.csproj.CoreCompileInputs.cache
+/Users/pawelsurmiak/studia/christmasTree/obj/Debug/net9.0/christmasTree.sourcelink.json
+/Users/pawelsurmiak/studia/christmasTree/bin/Debug/net9.0/christmasTree
+/Users/pawelsurmiak/studia/christmasTree/bin/Debug/net9.0/christmasTree.deps.json
+/Users/pawelsurmiak/studia/christmasTree/bin/Debug/net9.0/christmasTree.runtimeconfig.json
+/Users/pawelsurmiak/studia/christmasTree/bin/Debug/net9.0/christmasTree.dll
+/Users/pawelsurmiak/studia/christmasTree/bin/Debug/net9.0/christmasTree.pdb
+/Users/pawelsurmiak/studia/christmasTree/obj/Debug/net9.0/christmasTree.dll
+/Users/pawelsurmiak/studia/christmasTree/obj/Debug/net9.0/refint/christmasTree.dll
+/Users/pawelsurmiak/studia/christmasTree/obj/Debug/net9.0/christmasTree.pdb
+/Users/pawelsurmiak/studia/christmasTree/obj/Debug/net9.0/christmasTree.genruntimeconfig.cache
+/Users/pawelsurmiak/studia/christmasTree/obj/Debug/net9.0/ref/christmasTree.dll

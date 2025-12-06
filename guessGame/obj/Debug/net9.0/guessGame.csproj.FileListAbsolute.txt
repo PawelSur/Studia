@@ -1,0 +1,15 @@
+/Users/pawelsurmiak/studia/guessGame/bin/Debug/net9.0/guessGame
+/Users/pawelsurmiak/studia/guessGame/bin/Debug/net9.0/guessGame.deps.json
+/Users/pawelsurmiak/studia/guessGame/bin/Debug/net9.0/guessGame.runtimeconfig.json
+/Users/pawelsurmiak/studia/guessGame/bin/Debug/net9.0/guessGame.dll
+/Users/pawelsurmiak/studia/guessGame/bin/Debug/net9.0/guessGame.pdb
+/Users/pawelsurmiak/studia/guessGame/obj/Debug/net9.0/guessGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pawelsurmiak/studia/guessGame/obj/Debug/net9.0/guessGame.AssemblyInfoInputs.cache
+/Users/pawelsurmiak/studia/guessGame/obj/Debug/net9.0/guessGame.AssemblyInfo.cs
+/Users/pawelsurmiak/studia/guessGame/obj/Debug/net9.0/guessGame.csproj.CoreCompileInputs.cache
+/Users/pawelsurmiak/studia/guessGame/obj/Debug/net9.0/guessGame.sourcelink.json
+/Users/pawelsurmiak/studia/guessGame/obj/Debug/net9.0/guessGame.dll
+/Users/pawelsurmiak/studia/guessGame/obj/Debug/net9.0/refint/guessGame.dll
+/Users/pawelsurmiak/studia/guessGame/obj/Debug/net9.0/guessGame.pdb
+/Users/pawelsurmiak/studia/guessGame/obj/Debug/net9.0/guessGame.genruntimeconfig.cache
+/Users/pawelsurmiak/studia/guessGame/obj/Debug/net9.0/ref/guessGame.dll
