@@ -1,0 +1,15 @@
+/Users/pawelsurmiak/studia/evenOdd/bin/Debug/net9.0/evenOdd
+/Users/pawelsurmiak/studia/evenOdd/bin/Debug/net9.0/evenOdd.deps.json
+/Users/pawelsurmiak/studia/evenOdd/bin/Debug/net9.0/evenOdd.runtimeconfig.json
+/Users/pawelsurmiak/studia/evenOdd/bin/Debug/net9.0/evenOdd.dll
+/Users/pawelsurmiak/studia/evenOdd/bin/Debug/net9.0/evenOdd.pdb
+/Users/pawelsurmiak/studia/evenOdd/obj/Debug/net9.0/evenOdd.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pawelsurmiak/studia/evenOdd/obj/Debug/net9.0/evenOdd.AssemblyInfoInputs.cache
+/Users/pawelsurmiak/studia/evenOdd/obj/Debug/net9.0/evenOdd.AssemblyInfo.cs
+/Users/pawelsurmiak/studia/evenOdd/obj/Debug/net9.0/evenOdd.csproj.CoreCompileInputs.cache
+/Users/pawelsurmiak/studia/evenOdd/obj/Debug/net9.0/evenOdd.sourcelink.json
+/Users/pawelsurmiak/studia/evenOdd/obj/Debug/net9.0/evenOdd.dll
+/Users/pawelsurmiak/studia/evenOdd/obj/Debug/net9.0/refint/evenOdd.dll
+/Users/pawelsurmiak/studia/evenOdd/obj/Debug/net9.0/evenOdd.pdb
+/Users/pawelsurmiak/studia/evenOdd/obj/Debug/net9.0/evenOdd.genruntimeconfig.cache
+/Users/pawelsurmiak/studia/evenOdd/obj/Debug/net9.0/ref/evenOdd.dll

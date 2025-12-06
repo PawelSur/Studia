@@ -1,0 +1,15 @@
+/Users/pawelsurmiak/studia/addN/bin/Debug/net9.0/addN
+/Users/pawelsurmiak/studia/addN/bin/Debug/net9.0/addN.deps.json
+/Users/pawelsurmiak/studia/addN/bin/Debug/net9.0/addN.runtimeconfig.json
+/Users/pawelsurmiak/studia/addN/bin/Debug/net9.0/addN.dll
+/Users/pawelsurmiak/studia/addN/bin/Debug/net9.0/addN.pdb
+/Users/pawelsurmiak/studia/addN/obj/Debug/net9.0/addN.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pawelsurmiak/studia/addN/obj/Debug/net9.0/addN.AssemblyInfoInputs.cache
+/Users/pawelsurmiak/studia/addN/obj/Debug/net9.0/addN.AssemblyInfo.cs
+/Users/pawelsurmiak/studia/addN/obj/Debug/net9.0/addN.csproj.CoreCompileInputs.cache
+/Users/pawelsurmiak/studia/addN/obj/Debug/net9.0/addN.sourcelink.json
+/Users/pawelsurmiak/studia/addN/obj/Debug/net9.0/addN.dll
+/Users/pawelsurmiak/studia/addN/obj/Debug/net9.0/refint/addN.dll
+/Users/pawelsurmiak/studia/addN/obj/Debug/net9.0/addN.pdb
+/Users/pawelsurmiak/studia/addN/obj/Debug/net9.0/addN.genruntimeconfig.cache
+/Users/pawelsurmiak/studia/addN/obj/Debug/net9.0/ref/addN.dll

@@ -1,0 +1,15 @@
+/Users/pawelsurmiak/studia/tabMno/bin/Debug/net9.0/tabMno
+/Users/pawelsurmiak/studia/tabMno/bin/Debug/net9.0/tabMno.deps.json
+/Users/pawelsurmiak/studia/tabMno/bin/Debug/net9.0/tabMno.runtimeconfig.json
+/Users/pawelsurmiak/studia/tabMno/bin/Debug/net9.0/tabMno.dll
+/Users/pawelsurmiak/studia/tabMno/bin/Debug/net9.0/tabMno.pdb
+/Users/pawelsurmiak/studia/tabMno/obj/Debug/net9.0/tabMno.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pawelsurmiak/studia/tabMno/obj/Debug/net9.0/tabMno.AssemblyInfoInputs.cache
+/Users/pawelsurmiak/studia/tabMno/obj/Debug/net9.0/tabMno.AssemblyInfo.cs
+/Users/pawelsurmiak/studia/tabMno/obj/Debug/net9.0/tabMno.csproj.CoreCompileInputs.cache
+/Users/pawelsurmiak/studia/tabMno/obj/Debug/net9.0/tabMno.sourcelink.json
+/Users/pawelsurmiak/studia/tabMno/obj/Debug/net9.0/tabMno.dll
+/Users/pawelsurmiak/studia/tabMno/obj/Debug/net9.0/refint/tabMno.dll
+/Users/pawelsurmiak/studia/tabMno/obj/Debug/net9.0/tabMno.pdb
+/Users/pawelsurmiak/studia/tabMno/obj/Debug/net9.0/tabMno.genruntimeconfig.cache
+/Users/pawelsurmiak/studia/tabMno/obj/Debug/net9.0/ref/tabMno.dll
