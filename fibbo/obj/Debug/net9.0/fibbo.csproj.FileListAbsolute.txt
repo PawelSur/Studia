@@ -1,0 +1,15 @@
+/Users/pawelsurmiak/studia/fibbo/bin/Debug/net9.0/fibbo
+/Users/pawelsurmiak/studia/fibbo/bin/Debug/net9.0/fibbo.deps.json
+/Users/pawelsurmiak/studia/fibbo/bin/Debug/net9.0/fibbo.runtimeconfig.json
+/Users/pawelsurmiak/studia/fibbo/bin/Debug/net9.0/fibbo.dll
+/Users/pawelsurmiak/studia/fibbo/bin/Debug/net9.0/fibbo.pdb
+/Users/pawelsurmiak/studia/fibbo/obj/Debug/net9.0/fibbo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pawelsurmiak/studia/fibbo/obj/Debug/net9.0/fibbo.AssemblyInfoInputs.cache
+/Users/pawelsurmiak/studia/fibbo/obj/Debug/net9.0/fibbo.AssemblyInfo.cs
+/Users/pawelsurmiak/studia/fibbo/obj/Debug/net9.0/fibbo.csproj.CoreCompileInputs.cache
+/Users/pawelsurmiak/studia/fibbo/obj/Debug/net9.0/fibbo.sourcelink.json
+/Users/pawelsurmiak/studia/fibbo/obj/Debug/net9.0/fibbo.dll
+/Users/pawelsurmiak/studia/fibbo/obj/Debug/net9.0/refint/fibbo.dll
+/Users/pawelsurmiak/studia/fibbo/obj/Debug/net9.0/fibbo.pdb
+/Users/pawelsurmiak/studia/fibbo/obj/Debug/net9.0/fibbo.genruntimeconfig.cache
+/Users/pawelsurmiak/studia/fibbo/obj/Debug/net9.0/ref/fibbo.dll
