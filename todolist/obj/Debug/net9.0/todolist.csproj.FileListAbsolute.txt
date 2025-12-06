@@ -1,0 +1,15 @@
+/Users/pawelsurmiak/studia/todolist/obj/Debug/net9.0/todolist.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pawelsurmiak/studia/todolist/obj/Debug/net9.0/todolist.AssemblyInfoInputs.cache
+/Users/pawelsurmiak/studia/todolist/obj/Debug/net9.0/todolist.AssemblyInfo.cs
+/Users/pawelsurmiak/studia/todolist/obj/Debug/net9.0/todolist.csproj.CoreCompileInputs.cache
+/Users/pawelsurmiak/studia/todolist/obj/Debug/net9.0/todolist.sourcelink.json
+/Users/pawelsurmiak/studia/todolist/bin/Debug/net9.0/todolist
+/Users/pawelsurmiak/studia/todolist/bin/Debug/net9.0/todolist.deps.json
+/Users/pawelsurmiak/studia/todolist/bin/Debug/net9.0/todolist.runtimeconfig.json
+/Users/pawelsurmiak/studia/todolist/bin/Debug/net9.0/todolist.dll
+/Users/pawelsurmiak/studia/todolist/bin/Debug/net9.0/todolist.pdb
+/Users/pawelsurmiak/studia/todolist/obj/Debug/net9.0/todolist.dll
+/Users/pawelsurmiak/studia/todolist/obj/Debug/net9.0/refint/todolist.dll
+/Users/pawelsurmiak/studia/todolist/obj/Debug/net9.0/todolist.pdb
+/Users/pawelsurmiak/studia/todolist/obj/Debug/net9.0/todolist.genruntimeconfig.cache
+/Users/pawelsurmiak/studia/todolist/obj/Debug/net9.0/ref/todolist.dll

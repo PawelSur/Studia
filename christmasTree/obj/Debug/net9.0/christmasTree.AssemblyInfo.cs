@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("christmasTree")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eebd249dabb2e8f96772b9b577412c5fa486f5a0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22117218a64802837659053d6f7f57b1a6537f1c")]
 [assembly: System.Reflection.AssemblyProductAttribute("christmasTree")]
 [assembly: System.Reflection.AssemblyTitleAttribute("christmasTree")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
