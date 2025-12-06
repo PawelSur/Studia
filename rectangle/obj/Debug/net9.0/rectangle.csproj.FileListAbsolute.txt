@@ -1,0 +1,15 @@
+/Users/pawelsurmiak/studia/rectangle/bin/Debug/net9.0/rectangle
+/Users/pawelsurmiak/studia/rectangle/bin/Debug/net9.0/rectangle.deps.json
+/Users/pawelsurmiak/studia/rectangle/bin/Debug/net9.0/rectangle.runtimeconfig.json
+/Users/pawelsurmiak/studia/rectangle/bin/Debug/net9.0/rectangle.dll
+/Users/pawelsurmiak/studia/rectangle/bin/Debug/net9.0/rectangle.pdb
+/Users/pawelsurmiak/studia/rectangle/obj/Debug/net9.0/rectangle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pawelsurmiak/studia/rectangle/obj/Debug/net9.0/rectangle.AssemblyInfoInputs.cache
+/Users/pawelsurmiak/studia/rectangle/obj/Debug/net9.0/rectangle.AssemblyInfo.cs
+/Users/pawelsurmiak/studia/rectangle/obj/Debug/net9.0/rectangle.csproj.CoreCompileInputs.cache
+/Users/pawelsurmiak/studia/rectangle/obj/Debug/net9.0/rectangle.sourcelink.json
+/Users/pawelsurmiak/studia/rectangle/obj/Debug/net9.0/rectangle.dll
+/Users/pawelsurmiak/studia/rectangle/obj/Debug/net9.0/refint/rectangle.dll
+/Users/pawelsurmiak/studia/rectangle/obj/Debug/net9.0/rectangle.pdb
+/Users/pawelsurmiak/studia/rectangle/obj/Debug/net9.0/rectangle.genruntimeconfig.cache
+/Users/pawelsurmiak/studia/rectangle/obj/Debug/net9.0/ref/rectangle.dll

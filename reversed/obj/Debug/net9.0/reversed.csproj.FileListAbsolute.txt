@@ -1,0 +1,15 @@
+/Users/pawelsurmiak/studia/reversed/bin/Debug/net9.0/reversed
+/Users/pawelsurmiak/studia/reversed/bin/Debug/net9.0/reversed.deps.json
+/Users/pawelsurmiak/studia/reversed/bin/Debug/net9.0/reversed.runtimeconfig.json
+/Users/pawelsurmiak/studia/reversed/bin/Debug/net9.0/reversed.dll
+/Users/pawelsurmiak/studia/reversed/bin/Debug/net9.0/reversed.pdb
+/Users/pawelsurmiak/studia/reversed/obj/Debug/net9.0/reversed.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pawelsurmiak/studia/reversed/obj/Debug/net9.0/reversed.AssemblyInfoInputs.cache
+/Users/pawelsurmiak/studia/reversed/obj/Debug/net9.0/reversed.AssemblyInfo.cs
+/Users/pawelsurmiak/studia/reversed/obj/Debug/net9.0/reversed.csproj.CoreCompileInputs.cache
+/Users/pawelsurmiak/studia/reversed/obj/Debug/net9.0/reversed.sourcelink.json
+/Users/pawelsurmiak/studia/reversed/obj/Debug/net9.0/reversed.dll
+/Users/pawelsurmiak/studia/reversed/obj/Debug/net9.0/refint/reversed.dll
+/Users/pawelsurmiak/studia/reversed/obj/Debug/net9.0/reversed.pdb
+/Users/pawelsurmiak/studia/reversed/obj/Debug/net9.0/reversed.genruntimeconfig.cache
+/Users/pawelsurmiak/studia/reversed/obj/Debug/net9.0/ref/reversed.dll
