@@ -1,0 +1,15 @@
+/Users/pawelsurmiak/studia/primary/bin/Debug/net9.0/primary
+/Users/pawelsurmiak/studia/primary/bin/Debug/net9.0/primary.deps.json
+/Users/pawelsurmiak/studia/primary/bin/Debug/net9.0/primary.runtimeconfig.json
+/Users/pawelsurmiak/studia/primary/bin/Debug/net9.0/primary.dll
+/Users/pawelsurmiak/studia/primary/bin/Debug/net9.0/primary.pdb
+/Users/pawelsurmiak/studia/primary/obj/Debug/net9.0/primary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pawelsurmiak/studia/primary/obj/Debug/net9.0/primary.AssemblyInfoInputs.cache
+/Users/pawelsurmiak/studia/primary/obj/Debug/net9.0/primary.AssemblyInfo.cs
+/Users/pawelsurmiak/studia/primary/obj/Debug/net9.0/primary.csproj.CoreCompileInputs.cache
+/Users/pawelsurmiak/studia/primary/obj/Debug/net9.0/primary.sourcelink.json
+/Users/pawelsurmiak/studia/primary/obj/Debug/net9.0/primary.dll
+/Users/pawelsurmiak/studia/primary/obj/Debug/net9.0/refint/primary.dll
+/Users/pawelsurmiak/studia/primary/obj/Debug/net9.0/primary.pdb
+/Users/pawelsurmiak/studia/primary/obj/Debug/net9.0/primary.genruntimeconfig.cache
+/Users/pawelsurmiak/studia/primary/obj/Debug/net9.0/ref/primary.dll
