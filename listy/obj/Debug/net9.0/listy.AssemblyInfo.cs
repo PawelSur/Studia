@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("todolist")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("listy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8ad0259c3c1e90c413ba4f97c90f03377686dd0")]
-[assembly: System.Reflection.AssemblyProductAttribute("todolist")]
-[assembly: System.Reflection.AssemblyTitleAttribute("todolist")]
+[assembly: System.Reflection.AssemblyProductAttribute("listy")]
+[assembly: System.Reflection.AssemblyTitleAttribute("listy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Wygenerowane przez klasę WriteCodeFragment programu MSBuild.

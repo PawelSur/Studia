@@ -12,7 +12,7 @@ class Program
     {
        List<ToDoItem> toDoList = new List<ToDoItem>();
        ToDoItem item1 = new ToDoItem();
-       item1.description = "Buy groceries";
+       item1.description = "Zrobić zakupy";
        toDoList.Add(item1);
         while(true)
         {

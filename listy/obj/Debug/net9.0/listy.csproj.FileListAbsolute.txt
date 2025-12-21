@@ -1,0 +1,15 @@
+/Users/pawelsurmiak/studia/listy/bin/Debug/net9.0/listy
+/Users/pawelsurmiak/studia/listy/bin/Debug/net9.0/listy.deps.json
+/Users/pawelsurmiak/studia/listy/bin/Debug/net9.0/listy.runtimeconfig.json
+/Users/pawelsurmiak/studia/listy/bin/Debug/net9.0/listy.dll
+/Users/pawelsurmiak/studia/listy/bin/Debug/net9.0/listy.pdb
+/Users/pawelsurmiak/studia/listy/obj/Debug/net9.0/listy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pawelsurmiak/studia/listy/obj/Debug/net9.0/listy.AssemblyInfoInputs.cache
+/Users/pawelsurmiak/studia/listy/obj/Debug/net9.0/listy.AssemblyInfo.cs
+/Users/pawelsurmiak/studia/listy/obj/Debug/net9.0/listy.csproj.CoreCompileInputs.cache
+/Users/pawelsurmiak/studia/listy/obj/Debug/net9.0/listy.sourcelink.json
+/Users/pawelsurmiak/studia/listy/obj/Debug/net9.0/listy.dll
+/Users/pawelsurmiak/studia/listy/obj/Debug/net9.0/refint/listy.dll
+/Users/pawelsurmiak/studia/listy/obj/Debug/net9.0/listy.pdb
+/Users/pawelsurmiak/studia/listy/obj/Debug/net9.0/listy.genruntimeconfig.cache
+/Users/pawelsurmiak/studia/listy/obj/Debug/net9.0/ref/listy.dll
