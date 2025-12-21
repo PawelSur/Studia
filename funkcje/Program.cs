@@ -11,16 +11,17 @@ class Program
         checkAge(age);
         convertion(25);
         divisibility(10, 3);
+        Console.WriteLine(checkAge(age));
     }
-    static void checkAge(int age)
+    static bool checkAge(int age)
     {
         if (age >= 18)
         {
-            Console.WriteLine("Jesteś pełnoletni.");
+            return true;
         }
         else
         {
-            Console.WriteLine("Nie jesteś pełnoletni.");
+            return false;
         }
     } 
     
