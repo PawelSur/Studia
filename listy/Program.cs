@@ -6,12 +6,13 @@ class Program
 {
     static void Main()
     {
-        
+        // 1
     //    List<int> nums = new List<int>{1,2,3,4,5};
     //    foreach(var n in nums)
     //    {
     //     Console.WriteLine(n);
     //    }
+    // 2
     // List<int> numsFromUser = new List<int>();
     //   for(int i = 0; i < 5; i++)
     //   {
@@ -24,6 +25,7 @@ class Program
     //   {
     //     Console.WriteLine(n);       
     //   }
+    // 3
     //    List<int> nums = new List<int>{1,2,3,4,5};
     //    int sum = 0;
     //    foreach(var n in nums)
@@ -31,6 +33,7 @@ class Program
     //     sum += n;
     //    }
     //    Console.WriteLine("Suma liczb to: " + sum);
+    // 4
     // List<int> nums = new List<int>{2,1,3,4,5};
     // int min, max;
     // min = max = nums[0];
@@ -48,6 +51,7 @@ class Program
 
     // }
     // Console.WriteLine("Min: " + min + ", Max: " + max);
+    // 5
     // List<int> nums = new List<int>{2,1,3,4,5};
     // Console.WriteLine("Podaj liczbę do sprawdzania:");
     // int userNum = int.Parse(Console.ReadLine());
@@ -60,18 +64,21 @@ class Program
     //     }
     // }
     // Console.WriteLine("Liczb większych od " + userNum + ": " + counter );
+    // 6
     // List<int> nums = new List<int>{2,-1,-3,4,5};
     // nums.RemoveAll(n => n < 0);
     // foreach(var n in nums)
     // {
     //     Console.WriteLine(n);   
     // }
+    // 7
     // List<int> nums = new List<int>{2,-1,-3,4,5};
     // nums.Sort();
     // foreach(var n in nums)
     // {
     //     Console.WriteLine(n);
     // }
+    //  8
     // List<int> nums = new List<int>{2,-1,-3,4,5};
     // Console.WriteLine("Podaj liczbę do znalezienia:");
     // int userNum = int.Parse(Console.ReadLine());
@@ -84,6 +91,8 @@ class Program
     // {
     //     Console.WriteLine("Liczba nie znaleziona.");
     // }
+
+            // 9
     // List<int> nums = new List<int>{2,-1,-3,4,5,-3};
     // Console.WriteLine("Podaj liczbę do znalezienia:");
     // int userNum = int.Parse(Console.ReadLine());
@@ -107,7 +116,8 @@ class Program
     // else
     // {
     //     Console.WriteLine("Liczba nie znaleziona.");
-    // }
+    // } 
+    // 10
     List<int> nums = new List<int>{2,-1,-3,4,5,-3};
     List<int> evenNums = new List<int>();
     foreach(var n in nums)

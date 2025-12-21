@@ -1,0 +1,15 @@
+/Users/pawelsurmiak/studia/funkcje/bin/Debug/net9.0/funkcje
+/Users/pawelsurmiak/studia/funkcje/bin/Debug/net9.0/funkcje.deps.json
+/Users/pawelsurmiak/studia/funkcje/bin/Debug/net9.0/funkcje.runtimeconfig.json
+/Users/pawelsurmiak/studia/funkcje/bin/Debug/net9.0/funkcje.dll
+/Users/pawelsurmiak/studia/funkcje/bin/Debug/net9.0/funkcje.pdb
+/Users/pawelsurmiak/studia/funkcje/obj/Debug/net9.0/funkcje.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pawelsurmiak/studia/funkcje/obj/Debug/net9.0/funkcje.AssemblyInfoInputs.cache
+/Users/pawelsurmiak/studia/funkcje/obj/Debug/net9.0/funkcje.AssemblyInfo.cs
+/Users/pawelsurmiak/studia/funkcje/obj/Debug/net9.0/funkcje.csproj.CoreCompileInputs.cache
+/Users/pawelsurmiak/studia/funkcje/obj/Debug/net9.0/funkcje.sourcelink.json
+/Users/pawelsurmiak/studia/funkcje/obj/Debug/net9.0/funkcje.dll
+/Users/pawelsurmiak/studia/funkcje/obj/Debug/net9.0/refint/funkcje.dll
+/Users/pawelsurmiak/studia/funkcje/obj/Debug/net9.0/funkcje.pdb
+/Users/pawelsurmiak/studia/funkcje/obj/Debug/net9.0/funkcje.genruntimeconfig.cache
+/Users/pawelsurmiak/studia/funkcje/obj/Debug/net9.0/ref/funkcje.dll
